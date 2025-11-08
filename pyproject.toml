@@ -10,7 +10,7 @@ asyncio-rlock = "^0.1.0"
 asynciobase = { git = "https://github.com/JuniorJPDJ/asynciobase" }
 
 [tool.poetry.dev-dependencies]
-pytest = "^8.0.0"
+pytest = "^9.0.0"
 pytest-asyncio = "^1.0.0"
 
 [build-system]
